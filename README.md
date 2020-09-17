@@ -1,2 +1,1 @@
-# i494
-INFO-I494
+My name is Brayden Kutch and I am a senior at Indiana University Bloomington. My major is informatics with a minor in financial literacy and a cognate in business. I am from a small town outside of Terre Haute, Indiana. After college, I have plans to work at a real estate brokerage specializing in residential and commercial real estate. 
